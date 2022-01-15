@@ -17,3 +17,14 @@
 ## How to buy the MKS GEN 
   https://www.aliexpress.com/item/32810883738.html?spm=2114.12010612.8148356.17.635711419wsVTl
   ![MKS_GEN](https://github.com/makerbase-mks/MKS-GEN/blob/master/Picture/MKS_GEN.png "MKS_GEN")
+  
+  ## Note
+- Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook/Twitter/Discord/Reddit/Youtube and Github. Thank you!
+- MKS Github: https://github.com/makerbase-mks  
+- MKS Facebook: https://www.facebook.com/Makerbase.mks/  
+- MKS Twitter: https://twitter.com/home?lang=en  
+- MKS Discord: https://discord.gg/4uar57NEyU
+- MKS Reddit: https://www.reddit.com/user/MAKERBASE-TEAM/ 
+
+![mks_link](https://user-images.githubusercontent.com/12979070/149612781-e72365e9-ac07-4a22-a19d-2c75f5ac3d44.png)
